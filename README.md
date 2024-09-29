@@ -1,6 +1,6 @@
 # INFO-H-304 Projet - Algorithme de Smith-Waterman pour l'alignement de séquences
 
-Ce projet a été réalisé au second quadrimestre de l'année 2022-23 en groupe, pour le cours de complément de programmation et d'algorithmique.
+Ce projet a été réalisé au second quadrimestre de l'année 2018-19 en groupe, pour le cours de complément de programmation et d'algorithmique.
 
 Mots-clefs : C++, STL, programmation dynamique, algorithme, Smith-Waterman, Makefile, séquences de protéines, bioinformatique
 
