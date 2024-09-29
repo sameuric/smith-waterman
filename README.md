@@ -6,7 +6,7 @@ Mots-clefs : C++, STL, programmation dynamique, algorithme, Smith-Waterman, Make
 
 ### Introduction
 
-L’alignement de séquences et l’un des problèmes les plus communs en bioinformatique. Le but de l’alignement de séquences est de comparer deux séquences (ou plus), typiquement une séquence inconnue et une autre provenant d’une base de données, au moyen d’une certaine mesure de similarité. Les séquences à aligner peuvent être soit des séquences d’acides nucléiques (pour l’ADN et l’ARN), soit des séquences de peptides (pour les protéines).
+L’alignement de séquences est l’un des problèmes les plus communs en bioinformatique. Le but de l’alignement de séquences est de comparer deux séquences (ou plus), typiquement une séquence inconnue et une autre provenant d’une base de données, au moyen d’une certaine mesure de similarité. Les séquences à aligner peuvent être soit des séquences d’acides nucléiques (pour l’ADN et l’ARN), soit des séquences de peptides (pour les protéines).
 
 L’algorithme de Smith-Waterman est un des algorithmes les plus utilisés pour ce problème et utilise la programmation dynamique pour réaliser l’alignement de séquences.
 
