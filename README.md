@@ -12,7 +12,7 @@ L’algorithme de Smith-Waterman est un des algorithmes les plus utilisés pour 
 
 ## Étapes d'implémentation du programme
 
-You should only write your code in main.c. You may use as many task as you want as long as their priority is lower than the gameTask (i.e. gameTask has a priority of 20, so your tasks cannot have a priority higher than 19). Write a task that print the populationCntr, vaccineCntr and medicineCntr on the left side of the display. The last 8 characters of the LCD are reserved to the gameTask.
+Le but du projet est de réaliser un programme similaire à Swipe, utilisant l’algorithme de Smith-Waterman pour aligner les séquences de protéines.
 
 1. **Base de données de protéines**  
    Une base de données de protéines contient toutes les séquences de protéines connues. Nous allons utiliser une des bases de données les mieux maintenues, appelée Swiss-Port. Cette base de données consiste en un fichier unique pouvant être téléchargé sur le site web UniProt.
@@ -29,7 +29,6 @@ You should only write your code in main.c. You may use as many task as you want 
 5. **Le programme Swipe**  
    Pour réaliser l’alignement de la protéine de requête P00533 avec toutes les protéines présentes dans la base de données, et ce avant de créer votre propre programme, nous allons utiliser un programme existant, nommé Swipe, qui se base sur le même algorithme que celui que vous devrez implémenter. La description détaillée et l’analyse de performance de Swipe sont détaillées dans l’article scientifique [Rog11].
 
-Le but du projet est de réaliser un programme similaire à Swipe, utilisant l’algorithme de Smith-Waterman pour aligner les séquences de protéines.
 
 
 
